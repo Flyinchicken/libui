@@ -33,9 +33,10 @@ module.exports = {
   theme: {
     container: {
       center: true,
-      padding: '2rem',
-      screens: {
-        '2xl': '1400px'
+      padding: {
+        DEFAULT: '1rem',
+        md: '2rem',
+        xl: '3rem'
       }
     },
     extend: {
@@ -115,6 +116,9 @@ module.exports = {
             boxShadow: `0 -0.83em 0 -0.4em, -0.377em -0.74em 0 -0.42em, -0.645em -0.522em 0 -0.44em, -0.775em -0.297em 0 -0.46em, -0.82em -0.09em 0 -0.477em`
           }
         }
+      },
+      screens: {
+        '2xl': '1400px'
       }
     }
   }

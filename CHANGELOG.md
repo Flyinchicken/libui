@@ -1,5 +1,46 @@
 Changelog
 
+## [2.6.4](https://github.com/DouglasNeuroInformatics/libui/compare/v2.6.3...v2.6.4) (2024-07-02)
+
+
+### Bug Fixes
+
+* adjust container padding ([5f172a2](https://github.com/DouglasNeuroInformatics/libui/commit/5f172a216be6cc4f0a85a417e8edadb63cafe472))
+
+## [2.6.3](https://github.com/DouglasNeuroInformatics/libui/compare/v2.6.2...v2.6.3) (2024-07-02)
+
+
+### Bug Fixes
+
+* incorrectly placed screens property ([57ba546](https://github.com/DouglasNeuroInformatics/libui/commit/57ba546e8aa7886ff81a9420db13ed685770293b))
+
+## [2.6.2](https://github.com/DouglasNeuroInformatics/libui/compare/v2.6.1...v2.6.2) (2024-07-02)
+
+
+### Bug Fixes
+
+* increase container padding ([9f7c2f9](https://github.com/DouglasNeuroInformatics/libui/commit/9f7c2f95b8c1394275b244c82bdebd4a985a8c7f))
+
+## [2.6.1](https://github.com/DouglasNeuroInformatics/libui/compare/v2.6.0...v2.6.1) (2024-06-27)
+
+
+### Bug Fixes
+
+* reduce container padding for very small screens ([351affa](https://github.com/DouglasNeuroInformatics/libui/commit/351affa3e25e47a66516d7d19368589f1e5e29af))
+
+## [2.6.0](https://github.com/DouglasNeuroInformatics/libui/compare/v2.5.3...v2.6.0) (2024-06-23)
+
+
+### Features
+
+* add disableAutoPrefix to NumberField ([9c6a38b](https://github.com/DouglasNeuroInformatics/libui/commit/9c6a38bb0a7eacbb1df79a59f045fda014f0c6fa))
+
+
+### Bug Fixes
+
+* typo in form test ([4e971e6](https://github.com/DouglasNeuroInformatics/libui/commit/4e971e6624a6c72a7abd18e078836dee3deefb50))
+* typo in i18n isPlainObject usage ([0429016](https://github.com/DouglasNeuroInformatics/libui/commit/0429016cc8bda9189a2c1406bbd53ef2e7d61fab))
+
 ## [1.5.0](https://github.com/DouglasNeuroInformatics/libui/compare/v1.4.0...v1.5.0) (2024-03-16)
 
 
